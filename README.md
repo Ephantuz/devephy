@@ -12,8 +12,8 @@ Skills: PYTHON / JAVA / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on API's 
 
-<img src="https://github.com/devephy/devephy/blob/main/giphy.gif" width="256" />
-<img src="https://github.com/devephy/devephy/blob/main/giphy2.gif" width="256" />
+<img src="https://github.com/devephy/devephy/blob/main/giphy.gif" width="256" /><img src="https://github.com/devephy/devephy/blob/main/giphy2.gif" width="256" />
+
 <img src="https://github.com/devephy/devephy/blob/main/giphy3.gif" width="256" />
 <img src="https://github.com/devephy/devephy/blob/main/giphy4.gif" width="256" />
 
