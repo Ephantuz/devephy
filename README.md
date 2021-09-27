@@ -1,9 +1,8 @@
 
 ![& am a Software Engineer](https://pbs.twimg.com/profile_banners/1204024882037690368/1632783230/600x200)
 
-### Hi there 👋
-#I'm Ephantus
-####& am a Software Engineer
+Hi there 👋
+I'm Ephantus & am a Software Engineer
 
 I'm Ephantus from Kenya, Africa, and am a software engineer. I design and develop web applications as well as desktop applications. I have focused more on Python (back-end) and React (Front-end) languages but am also good with Java(back-end).
 
