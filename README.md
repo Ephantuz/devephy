@@ -12,10 +12,10 @@ Skills: PYTHON / JAVA / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on API's 
 
-<img src="https://github.com/devephy/devephy/blob/main/giphy.gif" width="256" /><img src="https://github.com/devephy/devephy/blob/main/giphy2.gif" width="256" />
+<img src="https://github.com/devephy/devephy/blob/main/giphy.gif" width="256" /><img src="https://github.com/devephy/devephy/blob/main/giphy2.gif" width="256" /><img src="https://github.com/devephy/devephy/blob/main/giphy3.gif" width="256" /><img src="https://github.com/devephy/devephy/blob/main/giphy4.gif" width="256" />
 
-<img src="https://github.com/devephy/devephy/blob/main/giphy3.gif" width="256" />
-<img src="https://github.com/devephy/devephy/blob/main/giphy4.gif" width="256" />
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/devephy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Ephantuz254)  
