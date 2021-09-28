@@ -1,5 +1,5 @@
 
-![& am a Software Engineer](https://pbs.twimg.com/profile_banners/1204024882037690368/1632783230/600x200)
+![& am a Software Engineer](https://github.com/devephy/devephy/blob/main/Software.png)
 
 Hi there 👋
 I'm Ephantus & am a Software Engineer
