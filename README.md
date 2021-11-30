@@ -1,6 +1,6 @@
 
 ![& am a Software Engineer]
-<img src="https://github.com/devephy/devephy/blob/main/3.jpg" width="1000" />
+<img src="https://github.com/devephy/devephy/blob/main/3.jpg" width="1000" height="500" />
 
 ****************Hi there 👋
 I'm Ephantus & am a Software Engineer******************
