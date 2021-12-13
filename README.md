@@ -2,7 +2,7 @@
 <img src="https://github.com/devephy/devephy/blob/main/net1.jpg" width="1200" height="500" />
 
 ****************Hi there 👋
-I'm Ephantus & am a Software Engineer { ... Loading...}  ******************
+I'm Ephantus & am a Software Engineer { ... SWE...}  ******************
 
 I'm Ephantus from Kenya, Africa, and am a software engineer. I design and develop web applications as well as desktop applications. I have focused more on Python (back-end) and React (Front-end) languages but am also good on Java(back-end).
 
