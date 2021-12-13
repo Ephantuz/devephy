@@ -1,5 +1,5 @@
 
-<img src="https://github.com/devephy/devephy/blob/main/brain1.jpg" width="1200" height="500" />
+<img src="https://github.com/devephy/devephy/blob/main/net1.jpg" width="1200" height="500" />
 
 ****************Hi there 👋
 I'm Ephantus & am a Software Engineer {script.hack}  ******************
