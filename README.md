@@ -1,5 +1,5 @@
 
-<img src="https://github.com/devephy/devephy/blob/main/web-development.gif" width="1200" height="600" />
+<img src="https://github.com/devephy/devephy/blob/main/web-development.gif" width="1000" height="600" />
 
 ****************Hi there 👋
 I'm Ephantus & am a Software Engineer { ... SWE...}  ******************
