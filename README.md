@@ -1,6 +1,5 @@
-#Hi there 👋
-
-#I'm Ephantus & am a Software Engineer { ... SWE...}  
+                Hi there 👋
+I'm Ephantus & am a Software Engineer { ... SWE...}  
 
 <img src="https://github.com/devephy/devephy/blob/main/6FNa.gif" width="500" height="400" />
 
