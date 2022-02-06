@@ -1,7 +1,7 @@
 
 
 
-<img src="https://github.com/devephy/devephy/blob/main/6FNa.gif" width="256" />
+<img src="https://github.com/devephy/devephy/blob/main/6FNa.gif" width="256" height="800" />
 
 ****************Hi there 👋
 I'm Ephantus & am a Software Engineer { ... SWE...}  ******************
