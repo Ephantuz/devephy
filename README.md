@@ -10,7 +10,7 @@
 
 I have more than 3 years of experience and this is where you will see what I've been doing, from web projects to applications projects. I love what I do and this is my hobby too. When am free, I code.
 
-Skills: PYTHON | JAVA | REACT{ [js/html/css] } | UX/UI Design
+Skills: PYTHON | NODE | | EXPRESS | REACT{ [js/html/css] } | MongoDB | | Axios | | UX/UI Design
 
 - 🔭 I’m currently working on API's 
 
