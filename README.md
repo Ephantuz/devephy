@@ -1,8 +1,6 @@
-                Hi there 👋 I'm Ephantus & am a Software Engineer {}  
-
 <img src="https://github.com/devephy/devephy/blob/main/Developer.gif" width="1200" height="500" />
 
-
+               Hi there 👋 I'm Ephantus & am a Software Engineer {}  
 
 ***I'm  from Kenya, Africa, and I want you to know and see what I am.***
 
