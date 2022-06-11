@@ -1,6 +1,6 @@
                 Hi there 👋 I'm Ephantus & am a Software Engineer {}  
 
-<img src="https://github.com/devephy/devephy/blob/main/Success.gif" width="1200" height="500" />
+<img src="https://github.com/devephy/devephy/blob/main/UIDesigners.gif" width="1200" height="500" />
 
 
 
