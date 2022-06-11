@@ -4,7 +4,7 @@
 
 Hello! I am Ephantus and am a Software Engineer working on web applications, systems development, and web
 infrastructure. I have been developing professionally for over 3 years but tinkering since a kid. But I don't want
-just you to know that I want the whole world to know that.
+just " you to know that "... I want the " whole world to know that! ".
 I started in tech with internships, freelance services, and part-time positions during campus.
 I have a bit of a diverse job history. I have had some partial positions in help desk, graphics/web design, web
 app development, and sysadmin/DevOps. I can help everywhere in the stack. Let's say that I love wearing
@@ -20,7 +20,7 @@ My Major Skills Are:
 
 - 🔭 I’m currently working on API's 
 
-<img src="https://github.com/devephy/devephy/blob/main/UIDesigners.gif" width="200" /><img src="https://github.com/devephy/devephy/blob/main/Success.gif" width="200" /><img src="https://github.com/devephy/devephy/blob/main/giphy4.gif" width="200" /><img src="https://github.com/devephy/devephy/blob/main/Mobile.gif" width="200" />
+<img src="https://github.com/devephy/devephy/blob/main/UIDesigners.gif" width="230" /><img src="https://github.com/devephy/devephy/blob/main/Success.gif" width="230" /><img src="https://github.com/devephy/devephy/blob/main/giphy4.gif" width="230" /><img src="https://github.com/devephy/devephy/blob/main/Mobile.gif" width="230" />
 
 
 
