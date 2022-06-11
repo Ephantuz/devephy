@@ -2,17 +2,25 @@
 
                Hi there 👋 I'm Ephantus & am a Software Engineer {}  
 
-***I'm  from Kenya, Africa, and I want you to know and see what I am.***
+Hello! I am Ephantus and am a Software Engineer working on web applications, systems development, and web
+infrastructure. I have been developing professionally for over 3 years but tinkering since a kid. But I don't want
+just you to know that I want the whole world to know that.
+I started in tech with internships, freelance services, and part-time positions during campus.
+I have a bit of a diverse job history. I have had some partial positions in help desk, graphics/web design, web
+app development, and sysadmin/DevOps. I can help everywhere in the stack. Let's say that I love wearing
+multiple hats to an extent, well they say "You never know what's coming...".
+Although my strongest skills are in software engineering and system security, I can work on any similar field or
+close.
+A day in my life may consist of: prepping web art, fixing some front-end/back-end bugs, app development, and
+systems developing and setting up a build or deployment plan and tests when I am lucky.
 
-**I design and develop web applications as well as desktop applications.I have focused more on Python and Node on back-end side and React as a Front-end.***
+My Major Skills Are:
 
-I have more than 3 years of experience and this is where you will see what I've been doing, from web projects to applications projects. I love what I do and this is my hobby too. When am free, I code.
-
-Skills: PYTHON | NODE | | EXPRESS | REACT{ [js/html/css] } | MongoDB | | Axios | | UX/UI Design
+    PYTHON | NODE | | EXPRESS | REACT{ [js/html/css] } | MongoDB | | Axios | |Redux| |GraphQL| | UX/UI Design
 
 - 🔭 I’m currently working on API's 
 
-<img src="https://github.com/devephy/devephy/blob/main/giphy.gif" width="256" /><img src="https://github.com/devephy/devephy/blob/main/giphy3.gif" width="256" /><img src="https://github.com/devephy/devephy/blob/main/giphy4.gif" width="256" />
+<img src="https://github.com/devephy/devephy/blob/main/UIDesigners.gif" width="256" /><img src="https://github.com/devephy/devephy/blob/main/giphy3.gif" width="256" /><img src="https://github.com/devephy/devephy/blob/main/giphy4.gif" width="256" />
 
 
 
