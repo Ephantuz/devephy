@@ -20,7 +20,7 @@ My Major Skills Are:
 
 - 🔭 I’m currently working on API's 
 
-<img src="https://github.com/devephy/devephy/blob/main/UIDesigners.gif" width="256" /><img src="https://github.com/devephy/devephy/blob/main/giphy3.gif" width="256" /><img src="https://github.com/devephy/devephy/blob/main/giphy4.gif" width="256" />
+<img src="https://github.com/devephy/devephy/blob/main/UIDesigners.gif" width="256" /><img src="https://github.com/devephy/devephy/blob/main/Success.gif" width="256" /><img src="https://github.com/devephy/devephy/blob/main/giphy4.gif" width="256" />
 
 
 
