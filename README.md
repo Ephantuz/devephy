@@ -2,7 +2,7 @@
 
                Hi there 👋 I'm Ephantus & am a Software Engineer {}  
 
-Hello! I am Ephantus and am a Software Engineer working on web applications, systems development, and web
+As a Software Engineer, I work on web applications, systems development, and web
 infrastructure. I have been developing professionally for over 3 years but tinkering since a kid. But I don't want
 just " you to know that "... I want the " whole world to know that! ".
 I started in tech with internships, freelance services, and part-time positions during campus.
