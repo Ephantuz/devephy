@@ -19,6 +19,7 @@ systems developing and setting up a build or deployment plan and tests when I am
 My Major Skills Are:
 
    | DevOps | PYTHON | NODE | | EXPRESS | REACT{ [js/html/css] } | MongoDB | | Axios | |Redux| |GraphQL| | UX/UI Design
+...  
    |   30%  |   69%  |  86% | |   79%   |          75%           |   88%   | |  60%  | | 60% | |   60% | |     80%
 
 - 🔭 I’m currently working on API's 
