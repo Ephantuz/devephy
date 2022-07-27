@@ -17,10 +17,9 @@ A day in my life may consist of: prepping web art, fixing some front-end/back-en
 systems developing and setting up a build or deployment plan and tests when I am lucky.
 
 My Major Skills Are:
-
+...
    | DevOps | PYTHON | NODE | | EXPRESS | REACT{ [js/html/css] } | MongoDB | | Axios | |Redux| |GraphQL| | UX/UI Design
 ...  
-   |   30%  |   69%  |  86% | |   79%   |          75%           |   88%   | |  60%  | | 60% | |   60% | |     80%
 
 - 🔭 I’m currently working on API's 
 
