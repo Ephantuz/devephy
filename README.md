@@ -1,4 +1,4 @@
-<img src="https://github.com/devephy/devephy/blob/main/Developer.gif" width="800" height="500" />
+<img src="https://github.com/devephy/devephy/blob/main/Developer.gif" width="900" height="500" />
 
                Hi there 👋 I'm Ephantus & am a Software Engineer {}  
 
