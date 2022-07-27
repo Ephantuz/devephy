@@ -3,12 +3,14 @@
                Hi there 👋 I'm Ephantus & am a Software Engineer {}  
 
 As a Software Engineer, I work on web applications, systems development, and web
-infrastructure. I have been developing professionally for over 3 years but tinkering since a kid. But I don't want
-just " you to know that "... I want the " whole world to know that! ".
+infrastructure. I have been developing professionally for over 3 years but tinkering since a kid, and the bigger
+picture of it is that i'd love the whole world to know what I do based on my work. Here is my story...
+
+
 I started in tech with internships, freelance services, and part-time positions during campus.
 I have a bit of a diverse job history. I have had some partial positions in help desk, graphics/web design, web
 app development, and sysadmin/DevOps. I can help everywhere in the stack. Let's say that I love wearing
-multiple hats to an extent, well they say "You never know what's coming...".
+multiple hats to an extent, well they say "  You never know what's coming... "
 Although my strongest skills are in software engineering and system security, I can work on any similar field or
 close.
 A day in my life may consist of: prepping web art, fixing some front-end/back-end bugs, app development, and
@@ -16,7 +18,8 @@ systems developing and setting up a build or deployment plan and tests when I am
 
 My Major Skills Are:
 
-    PYTHON | NODE | | EXPRESS | REACT{ [js/html/css] } | MongoDB | | Axios | |Redux| |GraphQL| | UX/UI Design
+   | DevOps | PYTHON | NODE | | EXPRESS | REACT{ [js/html/css] } | MongoDB | | Axios | |Redux| |GraphQL| | UX/UI Design
+   |   30%  |   69%  |  86% | |   79%   |          75%           |   88%   | |  60%  | | 60% | |   60% | |     80%
 
 - 🔭 I’m currently working on API's 
 
