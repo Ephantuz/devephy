@@ -3,6 +3,7 @@
                Hi there 👋 Buddy, Welcome to my world.  
 
  I have a lot of stuffs to talk about but I Decided to just show you instead What it entails. But before that, let me do my dramatic introduction. This is my GitHub profile and here, it’s where you will find what my world involves and by that, I mean My projects. 😊
+ 
                                                     "About me:" 
 Ephantus, yep! That’s my name on this world… And am an Engineer, A software Engineer to be precise. I know it’s Title, but I own it here based on my art and wonders I can do. Here, I believe am a mastermind of my art and best of my best.  After my senior/high school, I ventured myself into development of softwares and became curious of how systems are designed and developed. How data is kept and retrieved from space, Cloud it’s the name 😊.  I was tinkering in between the development process and it took me 3 good years to understand everything I needed.
 
