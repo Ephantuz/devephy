@@ -1,5 +1,12 @@
 <img src="https://github.com/devephy/devephy/blob/main/Developer.gif" width="850" height="500" />
 
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there+buddy!+👋;+I+Am+Ephantus+Mwangi...;Nice+to+meet+you!;&center=true&size=30">
+  </a>
+</h1>
+
                Hi there 👋 Buddy, Welcome to my world.  
 
  I have a lot of stuffs to talk about but I Decided to just show you instead What it entails. But before that, let me do my dramatic introduction. This is my GitHub profile and here, it’s where you will find what my world involves and by that, I mean My projects. 😊
